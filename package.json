@@ -1,6 +1,6 @@
 {
   "name": "orca-background-cover",
-  "version": "1.0.0",
+  "version": "1.9.5",
   "description": "替换虎鲸笔记背景图，支持自定义 URL、本地图片、预设壁纸和随机切换",
   "type": "module",
   "scripts": {
