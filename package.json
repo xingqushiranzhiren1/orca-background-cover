@@ -1,0 +1,24 @@
+{
+  "name": "orca-background-cover",
+  "version": "1.0.0",
+  "description": "替换虎鲸笔记背景图，支持自定义 URL、本地图片、预设壁纸和随机切换",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "peerDependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "valtio": "^1.13.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react-swc": "^3.5.0",
+    "rollup-plugin-external-globals": "^0.9.2",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10"
+  }
+}
