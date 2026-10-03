@@ -1,0 +1,20 @@
+{
+  "name": "orca-background-cover",
+  "author": "orca-background-cover",
+  "version": "1.9.5",
+  "displayName": {
+    "default": "Background Cover",
+    "zh_CN": "背景图"
+  },
+  "description": {
+    "default": "Set a custom background image for Orca Note: network presets, local images, random switch and auto rotation",
+    "zh_CN": "替换虎鲸笔记背景图：支持预设壁纸、本地图片库、随机抽取、定时轮换、透明度/虚化/偏移调节，编辑器与全屏两种覆盖范围"
+  },
+  "keywords": [
+    "background",
+    "wallpaper",
+    "背景",
+    "壁纸",
+    "背景图"
+  ]
+}
